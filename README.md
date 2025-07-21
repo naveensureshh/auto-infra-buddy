@@ -17,7 +17,6 @@ AutoInfraBuddy is a lightweight cloud automation agent that performs real-time E
 - Natural language to infrastructure command routing using GPT-3.5
 - Metric ingestion from Dynatrace API
 - Logging and storage of CPU usage data into PostgreSQL
-- Modular and testable code structure (unittest + mocking)
 - Deployed with AWS CDK using Python
 - Real-world simulation with CloudWatch logging and alerting support
 
